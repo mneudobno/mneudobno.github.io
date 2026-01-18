@@ -3,9 +3,12 @@ layout: page
 title: About Me
 subtitle: My journey, experience, and what drives me
 permalink: /about/
+redirect_from:
+  - /resume/
+  - /cv/
 ---
 
-## Hello!
+## :wave: Hello!
 
 I'm Anna Bushueva, a passionate junior full-stack developer based in Luxembourg. I recently graduated from the Technical University of Berlin with a degree in Computer Science, and I'm excited to build my career in software development.
 
@@ -15,7 +18,7 @@ When I'm not coding, you'll find me exploring Luxembourg's tech meetups, contrib
 
 ---
 
-## Work Experience
+## :briefcase: Work Experience
 
 <div class="timeline">
 {% for job in site.data.experience %}
@@ -40,7 +43,7 @@ When I'm not coding, you'll find me exploring Luxembourg's tech meetups, contrib
 
 ---
 
-## Education
+## :mortar_board: Education
 
 <div class="education-list">
 {% for edu in site.data.education.degrees %}
@@ -62,7 +65,7 @@ When I'm not coding, you'll find me exploring Luxembourg's tech meetups, contrib
 
 ---
 
-## Certifications
+## :trophy: Certifications
 
 <div class="certifications-grid">
 {% for cert in site.data.education.certifications %}
@@ -75,7 +78,7 @@ When I'm not coding, you'll find me exploring Luxembourg's tech meetups, contrib
 
 ---
 
-## Technical Skills
+## :computer: Technical Skills
 
 <div class="skills-detailed">
 {% for category in site.data.skills %}
@@ -103,7 +106,7 @@ When I'm not coding, you'll find me exploring Luxembourg's tech meetups, contrib
 
 ---
 
-## Let's Connect
+## :handshake: Let's Connect
 
 I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology. Feel free to reach out!
 

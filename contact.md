@@ -3,6 +3,9 @@ layout: page
 title: Contact
 subtitle: Let's get in touch
 permalink: /contact/
+redirect_from:
+  - /hire/
+  - /email/
 ---
 
 I'm currently looking for junior developer opportunities and would love to hear from you. Whether you have a question, want to discuss a potential collaboration, or just want to say hello, feel free to reach out!
@@ -38,7 +41,7 @@ I'm currently looking for junior developer opportunities and would love to hear 
 
 ---
 
-## Current Status
+## :green_circle: Current Status
 
 <div class="status-badge available">
   <span class="status-dot"></span>
@@ -54,7 +57,7 @@ I'm open to both on-site positions in Luxembourg and remote opportunities within
 
 ---
 
-## Location
+## :round_pushpin: Location
 
 <div class="location-info">
   <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>

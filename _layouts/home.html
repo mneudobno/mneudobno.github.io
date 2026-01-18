@@ -3,6 +3,9 @@ layout: default
 ---
 <section class="hero">
   <div class="hero-content">
+    <div class="hero-avatar">
+      {% avatar {{ site.author.github }} size=150 %}
+    </div>
     <p class="hero-greeting">Hi, I'm</p>
     <h1 class="hero-name">{{ site.author.name }}</h1>
     <p class="hero-tagline">{{ site.description }}</p>
@@ -37,7 +40,7 @@ layout: default
 {{ content }}
 
 <section class="home-section">
-  <h2 class="section-title">Technical Skills</h2>
+  <h2 class="section-title">:rocket: Technical Skills</h2>
   <div class="skills-grid">
     {% for category in site.data.skills %}
     {% unless category[0] == 'soft_skills' %}
@@ -63,7 +66,7 @@ layout: default
 </section>
 
 <section class="home-section">
-  <h2 class="section-title">Featured Projects</h2>
+  <h2 class="section-title">:sparkles: Featured Projects</h2>
   <div class="projects-grid">
     {% for project in site.projects limit:3 %}
     {% include project-card.html project=project %}
@@ -75,7 +78,7 @@ layout: default
 </section>
 
 <section class="home-section">
-  <h2 class="section-title">Experience</h2>
+  <h2 class="section-title">:briefcase: Experience</h2>
   <div class="timeline">
     {% for job in site.data.experience limit:2 %}
     <div class="timeline-item">

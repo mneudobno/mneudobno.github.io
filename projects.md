@@ -3,9 +3,12 @@ layout: page
 title: Projects
 subtitle: A collection of my work and side projects
 permalink: /projects/
+redirect_from:
+  - /portfolio/
+  - /work/
 ---
 
-Here are some projects I've worked on. Each one taught me something new and helped me grow as a developer.
+Here are some projects I've worked on. Each one taught me something new and helped me grow as a developer. :rocket:
 
 <div class="projects-grid projects-page-grid">
 {% for project in site.projects %}
@@ -15,7 +18,7 @@ Here are some projects I've worked on. Each one taught me something new and help
 
 ---
 
-## Want to collaborate?
+## :bulb: Want to collaborate?
 
 I'm always interested in working on interesting projects. If you have an idea or need help with development, let's talk!
 
