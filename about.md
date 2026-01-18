@@ -43,8 +43,7 @@ When I'm not coding, you'll find me exploring Berlin's tech meetups, contributin
 ## Education
 
 <div class="education-list">
-{% for edu in site.data.education %}
-{% if edu.degree %}
+{% for edu in site.data.education.degrees %}
 <div class="education-item">
   <div class="education-header">
     <h3>{{ edu.degree }}</h3>
@@ -58,7 +57,6 @@ When I'm not coding, you'll find me exploring Berlin's tech meetups, contributin
     {% endfor %}
   </ul>
 </div>
-{% endif %}
 {% endfor %}
 </div>
 
