@@ -1,0 +1,34 @@
+# Work Experience
+- title: "Junior Web Developer Intern"
+  company: "TechStart GmbH"
+  location: "Berlin, Germany"
+  period: "Jun 2024 - Present"
+  description: |
+    Working on full-stack web development projects using React and Node.js.
+  highlights:
+    - Developed and maintained responsive web applications using React and TypeScript
+    - Collaborated with senior developers on REST API design and implementation
+    - Participated in code reviews and agile sprint planning
+    - Improved page load performance by 40% through code optimization
+
+- title: "Freelance Web Developer"
+  company: "Self-employed"
+  location: "Remote"
+  period: "Jan 2024 - May 2024"
+  description: |
+    Built websites and web applications for small businesses and startups.
+  highlights:
+    - Created 5+ responsive websites for local businesses
+    - Implemented e-commerce functionality using Shopify and custom solutions
+    - Managed client relationships and project timelines independently
+
+- title: "Teaching Assistant - Web Development"
+  company: "Berlin Code Academy"
+  location: "Berlin, Germany"
+  period: "Sep 2023 - Dec 2023"
+  description: |
+    Assisted in teaching introductory web development courses.
+  highlights:
+    - Helped 30+ students learn HTML, CSS, and JavaScript fundamentals
+    - Created supplementary learning materials and code examples
+    - Provided one-on-one debugging assistance during lab sessions

@@ -1,0 +1,31 @@
+# Education
+- degree: "B.Sc. Computer Science"
+  institution: "Technical University of Berlin"
+  location: "Berlin, Germany"
+  period: "2021 - 2024"
+  description: "Focus on Software Engineering and Web Technologies"
+  highlights:
+    - "GPA: 2.1 (German scale)"
+    - "Thesis: Building Scalable Web Applications with Microservices Architecture"
+    - "Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering"
+
+- degree: "Full-Stack Web Development Bootcamp"
+  institution: "Le Wagon"
+  location: "Berlin, Germany"
+  period: "Jan 2023 - Mar 2023"
+  description: "Intensive 9-week coding bootcamp"
+  highlights:
+    - "Built 3 full-stack applications from scratch"
+    - "Technologies: Ruby on Rails, JavaScript, PostgreSQL, Heroku"
+    - "Final project: Team collaboration app with real-time features"
+
+certifications:
+  - name: "AWS Cloud Practitioner"
+    issuer: "Amazon Web Services"
+    date: "2024"
+  - name: "JavaScript Algorithms and Data Structures"
+    issuer: "freeCodeCamp"
+    date: "2023"
+  - name: "Responsive Web Design"
+    issuer: "freeCodeCamp"
+    date: "2023"

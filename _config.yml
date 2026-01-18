@@ -1,0 +1,58 @@
+# Site Settings
+title: "Alex Petrov"
+description: "Junior Full-Stack Developer | Passionate about building web applications"
+url: "https://mneudobno.github.io"
+baseurl: ""
+
+# Author Information
+author:
+  name: Alex Petrov
+  email: alex.petrov.dev@gmail.com
+  location: Berlin, Germany
+  github: mneudobno
+  linkedin: alexpetrov
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+
+# Theme - using minima as base
+theme: minima
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Navigation
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

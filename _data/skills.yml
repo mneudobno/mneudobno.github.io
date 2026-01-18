@@ -1,0 +1,51 @@
+# Technical Skills
+programming:
+  title: "Programming Languages"
+  items:
+    - name: JavaScript
+      level: 85
+    - name: TypeScript
+      level: 75
+    - name: Python
+      level: 80
+    - name: HTML/CSS
+      level: 90
+    - name: SQL
+      level: 70
+
+frameworks:
+  title: "Frameworks & Libraries"
+  items:
+    - name: React
+      level: 80
+    - name: Node.js
+      level: 75
+    - name: Express.js
+      level: 70
+    - name: Django
+      level: 65
+    - name: Tailwind CSS
+      level: 85
+
+tools:
+  title: "Tools & Technologies"
+  items:
+    - name: Git & GitHub
+      level: 85
+    - name: Docker
+      level: 60
+    - name: PostgreSQL
+      level: 70
+    - name: MongoDB
+      level: 65
+    - name: REST APIs
+      level: 80
+
+soft_skills:
+  title: "Soft Skills"
+  items:
+    - Problem Solving
+    - Team Collaboration
+    - Quick Learner
+    - Communication
+    - Time Management
