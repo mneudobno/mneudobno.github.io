@@ -1427,13 +1427,17 @@ p {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(10, 10, 15, 0.98);
-    backdrop-filter: blur(20px);
+    background: var(--color-bg);
     padding: var(--space-xl);
     transform: translateX(100%);
     opacity: 0;
     visibility: hidden;
     transition: all var(--transition-base);
+    z-index: 999;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-top: var(--space-2xl);
   }
 
   .site-nav.is-open {
@@ -1444,14 +1448,23 @@ p {
 
   .site-nav .nav-list {
     flex-direction: column;
-    gap: var(--space-sm);
+    gap: var(--space-md);
+    width: 100%;
   }
 
   .nav-link {
     display: block;
-    padding: var(--space-md);
+    padding: var(--space-lg);
     font-size: 1.25rem;
     text-align: center;
+    background: var(--color-bg-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+  }
+
+  .nav-link.active {
+    background: rgba(99, 102, 241, 0.2);
+    border-color: var(--color-primary);
   }
 
   .hero {
