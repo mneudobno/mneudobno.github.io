@@ -10,7 +10,7 @@ redirect_from:
 
 ## :wave: Hello!
 
-I'm Anna Bushueva, a passionate junior full-stack developer based in Luxembourg. I recently graduated from the Technical University of Berlin with a degree in Computer Science, and I'm excited to build my career in software development.
+I'm John Doe, a passionate junior full-stack developer based in Luxembourg. I recently graduated from the Technical University of Berlin with a degree in Computer Science, and I'm excited to build my career in software development.
 
 I love turning ideas into reality through code. Whether it's crafting intuitive user interfaces or designing robust backend systems, I find joy in solving problems and creating software that makes a difference.
 

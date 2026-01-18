@@ -234,6 +234,13 @@ p {
   height: 80px;
 }
 
+.site-nav {
+  position: absolute;
+  right: var(--space-xl);
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 .site-logo {
   display: flex;
   align-items: center;

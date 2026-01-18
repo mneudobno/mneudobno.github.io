@@ -1,16 +1,16 @@
 # Site Settings
-title: "Anna Bushueva"
+title: "John Doe"
 description: "Junior Full-Stack Developer | Passionate about building web applications"
 url: "https://mneudobno.github.io"
 baseurl: ""
 
 # Author Information
 author:
-  name: Anna Bushueva
-  email: anna.bushueva.dev@gmail.com
+  name: John Doe
+  email: john.doe.dev@gmail.com
   location: Luxembourg
   github: mneudobno
-  linkedin: annabushueva
+  linkedin: johndoe
 
 # Build Settings
 markdown: kramdown
