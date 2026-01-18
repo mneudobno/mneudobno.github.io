@@ -1,16 +1,16 @@
 # Site Settings
-title: "Alex Petrov"
+title: "Anna Bushueva"
 description: "Junior Full-Stack Developer | Passionate about building web applications"
 url: "https://mneudobno.github.io"
 baseurl: ""
 
 # Author Information
 author:
-  name: Alex Petrov
-  email: alex.petrov.dev@gmail.com
+  name: Anna Bushueva
+  email: anna.bushueva.dev@gmail.com
   location: Berlin, Germany
   github: mneudobno
-  linkedin: alexpetrov
+  linkedin: annabushueva
 
 # Build Settings
 markdown: kramdown
