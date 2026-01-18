@@ -7,11 +7,11 @@ permalink: /about/
 
 ## Hello!
 
-I'm Anna Bushueva, a passionate junior full-stack developer based in Berlin, Germany. I recently graduated from the Technical University of Berlin with a degree in Computer Science, and I'm excited to build my career in software development.
+I'm Anna Bushueva, a passionate junior full-stack developer based in Luxembourg. I recently graduated from the Technical University of Berlin with a degree in Computer Science, and I'm excited to build my career in software development.
 
 I love turning ideas into reality through code. Whether it's crafting intuitive user interfaces or designing robust backend systems, I find joy in solving problems and creating software that makes a difference.
 
-When I'm not coding, you'll find me exploring Berlin's tech meetups, contributing to open-source projects, or learning about the latest web technologies.
+When I'm not coding, you'll find me exploring Luxembourg's tech meetups, contributing to open-source projects, or learning about the latest web technologies.
 
 ---
 

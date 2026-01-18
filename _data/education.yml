@@ -2,7 +2,7 @@
 degrees:
   - degree: "B.Sc. Computer Science"
     institution: "Technical University of Berlin"
-    location: "Berlin, Germany"
+    location: "Luxembourg"
     period: "2021 - 2024"
     description: "Focus on Software Engineering and Web Technologies"
     highlights:
@@ -12,7 +12,7 @@ degrees:
 
   - degree: "Full-Stack Web Development Bootcamp"
     institution: "Le Wagon"
-    location: "Berlin, Germany"
+    location: "Luxembourg"
     period: "Jan 2023 - Mar 2023"
     description: "Intensive 9-week coding bootcamp"
     highlights:

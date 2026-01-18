@@ -50,7 +50,7 @@ I'm actively seeking junior developer positions, particularly in:
 - **Frontend Development** (React, TypeScript, CSS)
 - **Backend Development** (Node.js, Django, REST APIs)
 
-I'm open to both on-site positions in Berlin and remote opportunities within the EU timezone.
+I'm open to both on-site positions in Luxembourg and remote opportunities within the EU timezone.
 
 ---
 
@@ -61,4 +61,4 @@ I'm open to both on-site positions in Berlin and remote opportunities within the
   <span>{{ site.author.location }}</span>
 </div>
 
-Based in Berlin, Germany. Open to relocation within Europe for the right opportunity.
+Based in Luxembourg. Open to relocation within Europe for the right opportunity.
